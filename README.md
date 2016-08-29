@@ -1,4 +1,4 @@
-# Millennials-Spending-Analysis
+# Millennials Spending Analysis
 In this repository I make some analysis on the spending behaviour of the millennials and I try to predict how they will spend their money in the future.
 
 ## Data
